@@ -1,5 +1,5 @@
-name = Nexus Theme
-description = Nexus Theme is a premium Drupal 7 theme. Developed by <a href="http://www.devsaran.com">Devsaran.com</a>.
+name = Art & Design
+description = Art Theme for Art and Design Studio
 core = 7.x
 engine = phptemplate
 stylesheets[all][] = css/bootstrap.min.css
